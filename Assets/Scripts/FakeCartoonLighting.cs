@@ -2,7 +2,7 @@
 using System.Collections;
 using System;
 
-public class PlantObjectFakeLighting : MonoBehaviour {
+public class FakeCartoonLighting : MonoBehaviour {
 
     [Serializable]
     public class LightingObjectProfile {
